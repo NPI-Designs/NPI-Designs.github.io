@@ -4,7 +4,7 @@ var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"Logo Animation _ Concept_HTML5 Canvas_atlas_1", frames: [[0,0,1712,1712]]},
-		{name:"Logo Animation _ Concept_HTML5 Canvas_atlas_2", frames: [[1640,310,100,128],[1640,440,100,126],[1742,310,100,127],[1946,381,100,126],[874,760,100,129],[1946,509,100,126],[1844,381,100,127],[874,631,102,127],[1742,439,100,127],[874,503,108,126],[1640,568,284,28],[1880,0,93,248],[1880,250,127,129],[1640,0,238,308],[1072,0,566,790],[0,503,872,504],[0,0,1070,501]]}
+		{name:"Logo Animation _ Concept_HTML5 Canvas_atlas_2", frames: [[874,760,100,129],[1640,310,100,128],[1640,440,100,126],[874,631,102,127],[874,503,108,126],[1742,310,100,127],[1844,381,100,127],[1946,381,100,126],[1742,439,100,127],[1946,509,100,126],[1640,568,284,28],[1880,0,93,248],[1880,250,127,129],[1640,0,238,308],[0,503,872,504],[1072,0,566,790],[0,0,1070,501]]}
 ];
 
 
@@ -138,70 +138,70 @@ lib.ssMetadata = [
 
 
 
-(lib.fabricationservices = function() {
+(lib.portabledisplays = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.rentaldisplays = function() {
+(lib.fabricationservices = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.videoproduction = function() {
+(lib.rentaldisplays = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.eventpersonnel = function() {
+(lib.graphicdesignproduction = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.portabledisplays = function() {
+(lib.customdisplaysanddesign = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.warehousingdistribution = function() {
+(lib.videoproduction = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.onsitedisplayservices = function() {
+(lib.experientialmarketing = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.graphicdesignproduction = function() {
+(lib.eventpersonnel = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.experientialmarketing = function() {
+(lib.onsitedisplayservices = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.customdisplaysanddesign = function() {
+(lib.warehousingdistribution = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
@@ -236,14 +236,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_15 = function() {
+(lib.CachedBmp_12 = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_12 = function() {
+(lib.CachedBmp_15 = function() {
 	this.initialize(ss["Logo Animation _ Concept_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
@@ -484,7 +484,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn1.addEventListener("click", fl_ClickToGoToWebPage);
 		
 		function fl_ClickToGoToWebPage() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#services", "_blank");
 		}
 	}
 	this.frame_54 = function() {
@@ -499,7 +499,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn2.addEventListener("click", fl_ClickToGoToWebPage_2);
 		
 		function fl_ClickToGoToWebPage_2() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#services", "_blank");
 		}
 	}
 	this.frame_58 = function() {
@@ -514,7 +514,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn3.addEventListener("click", fl_ClickToGoToWebPage_3);
 		
 		function fl_ClickToGoToWebPage_3() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#rentaldisplays", "_blank");
 		}
 	}
 	this.frame_62 = function() {
@@ -529,7 +529,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn4.addEventListener("click", fl_ClickToGoToWebPage_4);
 		
 		function fl_ClickToGoToWebPage_4() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#rentaldisplays", "_blank");
 		}
 	}
 	this.frame_66 = function() {
@@ -544,7 +544,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn5.addEventListener("click", fl_ClickToGoToWebPage_5);
 		
 		function fl_ClickToGoToWebPage_5() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#graphicdesign", "_blank");
 		}
 	}
 	this.frame_70 = function() {
@@ -559,7 +559,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn6.addEventListener("click", fl_ClickToGoToWebPage_6);
 		
 		function fl_ClickToGoToWebPage_6() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#graphicdesign", "_blank");
 		}
 	}
 	this.frame_74 = function() {
@@ -574,7 +574,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn7.addEventListener("click", fl_ClickToGoToWebPage_7);
 		
 		function fl_ClickToGoToWebPage_7() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#warehousing", "_blank");
 		}
 	}
 	this.frame_78 = function() {
@@ -589,7 +589,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn8.addEventListener("click", fl_ClickToGoToWebPage_8);
 		
 		function fl_ClickToGoToWebPage_8() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#warehousing", "_blank");
 		}
 	}
 	this.frame_82 = function() {
@@ -604,7 +604,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn9.addEventListener("click", fl_ClickToGoToWebPage_9);
 		
 		function fl_ClickToGoToWebPage_9() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#experientialmarketing", "_blank");
 		}
 	}
 	this.frame_86 = function() {
@@ -619,7 +619,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		this.Btn10.addEventListener("click", fl_ClickToGoToWebPage_10);
 		
 		function fl_ClickToGoToWebPage_10() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://www.northernproductions.com/#experientialmarketing", "_blank");
 		}
 	}
 
